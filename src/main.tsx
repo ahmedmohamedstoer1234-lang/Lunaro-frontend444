@@ -1,4 +1,5 @@
 import React, { useMemo, useState } from 'react';
+import './dynamic-bridge';
 import { createRoot } from 'react-dom/client';
 import { ArrowLeft, ArrowUpLeft, ArrowUpRight, Check, ChevronDown, Code2, Globe2, Layers3, Menu, MessageCircle, MonitorSmartphone, Palette, Search, ShieldCheck, Sparkles, X, Zap } from 'lucide-react';
 import { projects } from './projects';
