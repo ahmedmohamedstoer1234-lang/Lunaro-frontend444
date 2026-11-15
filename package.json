@@ -11,6 +11,7 @@
     "check:portfolio": "node scripts/validate-portfolio.mjs"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
     "@vitejs/plugin-react": "latest",
     "vite": "latest",
     "react": "latest",
